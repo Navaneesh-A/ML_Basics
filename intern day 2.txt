@@ -1,0 +1,7 @@
+im going to practise some simple linear regression programs
+
+using python matplotlib
+
+reference
+https://www.w3schools.com/python/python_ml_linear_regression.asp
+
